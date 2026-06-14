@@ -50,7 +50,7 @@ Pipeline ini akan:
 
 ### 3. Buka Dashboard
 ```bash
-streamlit run app.py
+python -m streamlit run app.py
 ```
 Buka browser: **http://localhost:5000**
 
