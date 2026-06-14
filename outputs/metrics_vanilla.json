@@ -1,0 +1,7 @@
+{
+  "variant": "vanilla",
+  "accuracy": 71.27,
+  "precision": 71.68,
+  "recall": 71.27,
+  "f1_score": 71.33
+}

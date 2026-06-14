@@ -1,0 +1,7 @@
+{
+  "variant": "stacked",
+  "accuracy": 46.26,
+  "precision": 60.17,
+  "recall": 46.26,
+  "f1_score": 44.68
+}

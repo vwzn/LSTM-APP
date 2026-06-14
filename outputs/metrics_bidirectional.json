@@ -1,0 +1,7 @@
+{
+  "variant": "bidirectional",
+  "accuracy": 42.82,
+  "precision": 61.48,
+  "recall": 42.82,
+  "f1_score": 45.32
+}
